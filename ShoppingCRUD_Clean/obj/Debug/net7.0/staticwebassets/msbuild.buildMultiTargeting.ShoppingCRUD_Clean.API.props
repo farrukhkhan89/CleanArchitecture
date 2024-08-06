@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ShoppingCRUD_Clean.API.props" />
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Application\bin\Debug\net7.0\ShoppingCRUD_Clean.Application.deps.json
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Application\bin\Debug\net7.0\ShoppingCRUD_Clean.Application.dll
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Application\bin\Debug\net7.0\ShoppingCRUD_Clean.Application.pdb
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Application\bin\Debug\net7.0\ShoppingCRUD_Clean.Domain.dll
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Application\bin\Debug\net7.0\ShoppingCRUD_Clean.Domain.pdb
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Application\obj\Debug\net7.0\ShoppingCRUD_Clean.Application.csproj.AssemblyReference.cache
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Application\obj\Debug\net7.0\ShoppingCRUD_Clean.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Application\obj\Debug\net7.0\ShoppingCRUD_Clean.Application.AssemblyInfoInputs.cache
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Application\obj\Debug\net7.0\ShoppingCRUD_Clean.Application.AssemblyInfo.cs
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Application\obj\Debug\net7.0\ShoppingCRUD_Clean.Application.csproj.CoreCompileInputs.cache
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Application\obj\Debug\net7.0\Shopping.BE5422A7.Up2Date
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Application\obj\Debug\net7.0\ShoppingCRUD_Clean.Application.dll
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Application\obj\Debug\net7.0\refint\ShoppingCRUD_Clean.Application.dll
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Application\obj\Debug\net7.0\ShoppingCRUD_Clean.Application.pdb
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Application\obj\Debug\net7.0\ref\ShoppingCRUD_Clean.Application.dll

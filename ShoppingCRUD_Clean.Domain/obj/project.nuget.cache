@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XWA1mtZ2LZFwP5QCfWjlMHiLtKqq4QLf9eVyl6BT0IWOp1pZKre2H6n6IuTMb4381C6YenHVsjJ0BA+ioJatiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\farru\\source\\repos\\ShoppingCRUD_Clean\\ShoppingCRUD_Clean.Domain\\ShoppingCRUD_Clean.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farru\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\farru\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\farru\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

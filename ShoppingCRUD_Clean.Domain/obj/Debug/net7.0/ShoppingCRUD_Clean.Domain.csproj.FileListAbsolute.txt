@@ -1,0 +1,12 @@
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Domain\bin\Debug\net7.0\ShoppingCRUD_Clean.Domain.deps.json
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Domain\bin\Debug\net7.0\ShoppingCRUD_Clean.Domain.dll
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Domain\bin\Debug\net7.0\ShoppingCRUD_Clean.Domain.pdb
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Domain\obj\Debug\net7.0\ShoppingCRUD_Clean.Domain.csproj.AssemblyReference.cache
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Domain\obj\Debug\net7.0\ShoppingCRUD_Clean.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Domain\obj\Debug\net7.0\ShoppingCRUD_Clean.Domain.AssemblyInfoInputs.cache
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Domain\obj\Debug\net7.0\ShoppingCRUD_Clean.Domain.AssemblyInfo.cs
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Domain\obj\Debug\net7.0\ShoppingCRUD_Clean.Domain.csproj.CoreCompileInputs.cache
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Domain\obj\Debug\net7.0\ShoppingCRUD_Clean.Domain.dll
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Domain\obj\Debug\net7.0\refint\ShoppingCRUD_Clean.Domain.dll
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Domain\obj\Debug\net7.0\ShoppingCRUD_Clean.Domain.pdb
+C:\Users\farru\source\repos\ShoppingCRUD_Clean\ShoppingCRUD_Clean.Domain\obj\Debug\net7.0\ref\ShoppingCRUD_Clean.Domain.dll
